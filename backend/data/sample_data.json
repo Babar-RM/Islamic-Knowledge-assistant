@@ -1,0 +1,61 @@
+[
+    {
+      "source_type": "Quran",
+      "reference": "Surah Al-Baqarah 2:255 (Ayat al-Kursi)",
+      "arabic_text": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ",
+      "english_text": "Allah - there is no deity except Him, the Ever-Living, the Sustainer of existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth.",
+      "context": "This is one of the greatest verses in the Quran, known as Ayat al-Kursi.",
+      "tags": ["Allah", "Tawhid", "Names of Allah"]
+    },
+    {
+      "source_type": "Hadith",
+      "reference": "Sahih Bukhari 1:2",
+      "english_text": "The Prophet said: Islam is based on five pillars: Testimony that there is no god but Allah and Muhammad is His Messenger, performing prayer, paying Zakat, fasting Ramadan, and Hajj to the House for those who are able.",
+      "context": "This hadith explains the five fundamental pillars of Islam.",
+      "tags": ["Five Pillars", "Islam Basics", "Fundamentals"]
+    },
+    {
+      "source_type": "Quran",
+      "reference": "Surah Al-Fatiha 1:1-7",
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "english_text": "In the name of Allah, the Entirely Merciful, the Especially Merciful. All praise is due to Allah, Lord of the worlds. The Entirely Merciful, the Especially Merciful. Sovereign of the Day of Recompense. It is You we worship and You we ask for help. Guide us to the straight path.",
+      "context": "Al-Fatiha is the opening chapter of the Quran, recited in every unit of prayer.",
+      "tags": ["Prayer", "Quran", "Surah Al-Fatiha"]
+    },
+    {
+      "source_type": "Hadith",
+      "reference": "Sahih Muslim 1:1",
+      "english_text": "The Prophet said: Actions are according to intentions, and everyone will get what was intended. Whoever migrated for worldly benefits or for a woman to marry, his migration was for what he migrated for.",
+      "context": "This hadith emphasizes the importance of intention in all actions.",
+      "tags": ["Intention", "Actions", "Sincerity"]
+    },
+    {
+      "source_type": "Tafsir",
+      "reference": "Tafsir Ibn Kathir on Surah Al-Baqarah 2:255",
+      "english_text": "Ayat al-Kursi speaks about Allah's majesty and attributes. It affirms His oneness, eternal existence, and complete authority over all creation. No one can intercede except by His permission.",
+      "context": "Commentary explaining the significance of Ayat al-Kursi.",
+      "tags": ["Tafsir", "Allah's Attributes", "Ayat al-Kursi"]
+    },
+    {
+      "source_type": "Quran",
+      "reference": "Surah Al-Ikhlas 112:1-4",
+      "arabic_text": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+      "english_text": "Say, He is Allah, the One. Allah, the Eternal Refuge. He neither begets nor is born, nor is there to Him any equivalent.",
+      "context": "This surah declares the absolute oneness of Allah.",
+      "tags": ["Tawhid", "Oneness of Allah", "Surah Al-Ikhlas"]
+    },
+    {
+      "source_type": "Hadith",
+      "reference": "Sahih Bukhari 8:75",
+      "english_text": "The Prophet said: The best among you are those who have the best manners and character.",
+      "context": "This hadith emphasizes the importance of good character in Islam.",
+      "tags": ["Character", "Manners", "Ethics"]
+    },
+    {
+      "source_type": "Quran",
+      "reference": "Surah Al-Baqarah 2:183",
+      "english_text": "O you who have believed, decreed upon you is fasting as it was decreed upon those before you that you may become righteous.",
+      "context": "This verse establishes the obligation of fasting in Ramadan.",
+      "tags": ["Fasting", "Ramadan", "Obligations"]
+    }
+  ]

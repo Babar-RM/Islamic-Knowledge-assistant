@@ -1,0 +1,36 @@
+{
+  "fetchedAt": "2026-02-17T04:29:09.450Z",
+  "collections": [
+    {
+      "name": "Sahih Bukhari",
+      "count": 7589,
+      "error": null
+    },
+    {
+      "name": "Sahih Muslim",
+      "count": 7563,
+      "error": null
+    },
+    {
+      "name": "Abu Dawud",
+      "count": 5274,
+      "error": null
+    },
+    {
+      "name": "Tirmidhi",
+      "count": 3998,
+      "error": null
+    },
+    {
+      "name": "Nasa'i",
+      "count": 5765,
+      "error": null
+    },
+    {
+      "name": "Ibn Majah",
+      "count": 4343,
+      "error": null
+    }
+  ],
+  "totalHadiths": 34532
+}
